@@ -30,5 +30,5 @@ To use the website, follow these steps:
 - Wait for the website to process the image.
 - View the probabilities of matching with each celebrity option.
 - Identify the celebrity with the highest probability as the final result.
-```
+
 
